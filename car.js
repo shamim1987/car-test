@@ -1,3 +1,7 @@
+var Car = function (){
+  this.hello = 0
+}
+
 var Car = function (color, convertible) {
   this.speed = 0
   this.color = color
