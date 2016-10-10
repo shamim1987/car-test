@@ -14,6 +14,7 @@ Car.prototype.accelerate = function (num) {
 
 Car.prototype.setColor = function(newColor) {
   this.color = newColor
+  this.color = newColor
 }
 
 
